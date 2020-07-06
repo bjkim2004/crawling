@@ -1,0 +1,6159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>기상청 육상 중기예보</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</link>
+<description>기상청 날씨 웹서비스</description>
+<language>ko</language>
+<generator>기상청</generator>
+<pubDate>2020년 06월 22일 (월)요일 18:00</pubDate>
+ <item>
+<author>기상청</author>
+<category>육상중기예보</category>
+<title>전국 육상 중기예보 - 2020년 06월 22일 (월)요일 18:00 발표</title>
+<link>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</link>
+<guid>http://www.kma.go.kr/weather/forecast/mid-term_01.jsp</guid>
+<description>
+	<header>
+		<title>전국 육상중기예보</title>
+		<tm>202006221800</tm>
+		<wf><![CDATA[○ (강수) 25일(목)은 전국에 비가 오겠고 중부지방과 전북, 경북은 26일(금)까지 이어지겠습니다. 28일(일)~7월 1일(수)은 전국에 비가 오겠습니다.<br />○ (기온) 이번 예보기간 낮 기온은 25~30도로 오늘(21~36도)보다 낮겠습니다. 27일(토)은 충북과 경상내륙을 중심으로 낮 기온이 30도 이상 오르는 곳이 많겠습니다. <br />○ (주말전망) 27일(토)은 전국이 구름많겠고, 28일(일)은 흐리고 비가 오겠습니다. 아침 기온은 20~22도, 낮 기온은 26~30도의 분포가 되겠습니다.   <br />       <br />* 이번 예보기간에는 정체전선의 위치에 따라 강수 시점과 지역이 변경될 가능성이 있으니, 앞으로 발표되는 기상정보를 참고하기 바랍니다.]]></wf>
+	</header>
+	<body>
+				
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>서울</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>인천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>수원</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>파주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>19</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>19</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>19</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>이천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>서울ㆍ인천ㆍ경기도</province>
+				<city>평택</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>춘천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>강원도영서</province>
+				<city>원주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>강원도영동</province>
+				<city>강릉</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>19</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>대전ㆍ세종ㆍ충청남도</province>
+				<city>대전</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대전ㆍ세종ㆍ충청남도</province>
+				<city>세종</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대전ㆍ세종ㆍ충청남도</province>
+				<city>홍성</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>충청북도</province>
+				<city>청주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>충청북도</province>
+				<city>충주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>충청북도</province>
+				<city>영동</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>19</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>광주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>목포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>여수</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>순천</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>광양</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>광주ㆍ전라남도</province>
+				<city>나주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>20</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>전라북도</province>
+				<city>전주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>전라북도</province>
+				<city>군산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>전라북도</province>
+				<city>정읍</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>전라북도</province>
+				<city>남원</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>전라북도</province>
+				<city>고창</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>전라북도</province>
+				<city>무주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>19</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>부산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>울산</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>창원</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>진주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>거창</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>19</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>19</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>19</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>부산ㆍ울산ㆍ경상남도</province>
+				<city>통영</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>100</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>대구</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>31</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>안동</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>포항</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>경주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>30</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>31</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>29</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>울진</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>18</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>18</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>19</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>19</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>19</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>23</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>23</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>대구ㆍ경상북도</province>
+				<city>울릉도</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>19</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>19</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>20</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>21</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>20</tmn>
+					<tmx>23</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>20</tmn>
+					<tmx>24</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+
+		<location wl_ver="3">
+				<province>제주도</province>
+				<city>제주</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>23</tmn>
+					<tmx>28</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+		<location wl_ver="3">
+				<province>제주도</province>
+				<city>서귀포</city>
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-25 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>25</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-26 12:00</tmEf>
+					<wf>구름많음</wf>
+					<tmn>21</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>30</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-27 12:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>70</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-28 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A02</mode>
+					<tmEf>2020-06-29 12:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>23</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>80</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-06-30 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>90</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-01 00:00</tmEf>
+					<wf>흐리고 비</wf>
+					<tmn>22</tmn>
+					<tmx>26</tmx>
+					<reliability/>
+					<rnSt>60</rnSt>
+				</data>
+
+				
+				<data>
+					<mode>A01</mode>
+					<tmEf>2020-07-02 00:00</tmEf>
+					<wf>흐림</wf>
+					<tmn>22</tmn>
+					<tmx>27</tmx>
+					<reliability/>
+					<rnSt>40</rnSt>
+				</data>
+
+
+		</location>
+
+
+	
+
+	</body>
+</description>
+</item>
+</channel>
+</rss>
